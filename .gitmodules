@@ -1,0 +1,7 @@
+[submodule "CMSIS_5"]
+	path = CMSIS_5
+	url = git@github.com:ARM-software/CMSIS_5.git
+	branch = master
+[submodule "CMSIS_4"]
+	path = CMSIS_4
+	url = git@github.com:ARM-software/CMSIS_4.git

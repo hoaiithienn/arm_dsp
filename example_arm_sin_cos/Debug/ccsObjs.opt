@@ -1,0 +1,5 @@
+"./arm_sin_cos_example_f32.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
+-l"D:/Repos/arm_dsp/dsplib_cm4f/Lib/dsplib_cm4f.lib"
